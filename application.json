@@ -1,12 +1,5 @@
 {
   "appIsExample": false,
-  "applicationDetail": {
-    "themeSetting": {
-      "appMaxWidth": "LARGE",
-      "density": 1.0,
-      "sizing": 1.0
-    }
-  },
   "applicationVersion": 2,
   "collapseInvisibleWidgets": true,
   "color": "#C7F3E3",
@@ -16,12 +9,5 @@
       "id": "Page1",
       "isDefault": true
     }
-  ],
-  "unpublishedApplicationDetail": {
-    "themeSetting": {
-      "appMaxWidth": "LARGE",
-      "density": 1.0,
-      "sizing": 1.0
-    }
-  }
+  ]
 }

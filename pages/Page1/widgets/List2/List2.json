@@ -9,7 +9,7 @@
   "animateLoading": true,
   "backgroundColor": "transparent",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 44,
+  "bottomRow": 1198,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "children": [
     {
@@ -32,7 +32,7 @@
       "flexLayers": [],
       "isLoading": false,
       "isVisible": true,
-      "key": "bkwcguuubu",
+      "key": "nkdym03i20",
       "leftColumn": 0,
       "maxDynamicHeight": 9000,
       "minDynamicHeight": 4,
@@ -46,7 +46,7 @@
       "noPad": true,
       "openParentPropertyPane": true,
       "parentColumnSpace": 1,
-      "parentId": "component-10bidvu8sl",
+      "parentId": "component-020b8bu7kz",
       "parentRowSpace": 1,
       "renderMode": "CANVAS",
       "responsiveBehavior": "fill",
@@ -54,8 +54,8 @@
       "topRow": 0,
       "type": "CANVAS_WIDGET",
       "version": 1,
-      "widgetId": "0drtyxfzdd",
-      "widgetName": "Canvas1"
+      "widgetId": "xd61rl6wzj",
+      "widgetName": "Canvas3"
     }
   ],
   "currentItemsView": "{{[]}}",
@@ -91,8 +91,8 @@
   "isVisible": true,
   "itemBackgroundColor": "#FFFFFF",
   "itemSpacing": 8,
-  "key": "s2enly2hit",
-  "leftColumn": 36,
+  "key": "y4ylnrw9ic",
+  "leftColumn": 37,
   "listData": [
     {
       "id": "001",
@@ -110,28 +110,28 @@
       "name": "Red"
     }
   ],
-  "mainCanvasId": "0drtyxfzdd",
-  "mainContainerId": "trzrz60maa",
+  "mainCanvasId": "xd61rl6wzj",
+  "mainContainerId": "wyk7jof5ok",
   "minWidth": 450,
-  "mobileBottomRow": 44,
-  "mobileLeftColumn": 36,
-  "mobileRightColumn": 60,
-  "mobileTopRow": 4,
+  "mobileBottomRow": 1198,
+  "mobileLeftColumn": 37,
+  "mobileRightColumn": 61,
+  "mobileTopRow": 1158,
   "needsErrorInfo": false,
   "pageSize": 3,
   "parentColumnSpace": 19.09375,
   "parentId": "0",
   "parentRowSpace": 10,
-  "primaryKeys": "{{List1.listData.map((currentItem, currentIndex) => currentItem[\"id\"] )}}",
+  "primaryKeys": "{{List2.listData.map((currentItem, currentIndex) => currentItem[\"id\"] )}}",
   "renderMode": "CANVAS",
   "requiresFlatWidgetChildren": true,
   "responsiveBehavior": "fill",
-  "rightColumn": 60,
+  "rightColumn": 61,
   "selectedItemView": "{{{}}}",
   "templateHeight": 160,
-  "topRow": 4,
+  "topRow": 1158,
   "triggeredItemView": "{{{}}}",
   "type": "LIST_WIDGET_V2",
-  "widgetId": "component-10bidvu8sl",
-  "widgetName": "List1"
+  "widgetId": "component-020b8bu7kz",
+  "widgetName": "List2"
 }
